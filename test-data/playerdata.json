@@ -1,0 +1,72 @@
+[
+  {
+    "playerName": "Avinash",
+    "playerCountry": "India",
+    "playerYear": "2015",
+    "playerRole": "Batsman",
+    "playerGender": "MALE"
+  },
+  {
+    "playerName": "Rahul",
+    "playerCountry": "India",
+    "playerYear": "2015",
+    "playerRole": "Bowler",
+    "playerGender": "MALE"
+  },
+  {
+    "playerName": "Pras",
+    "playerCountry": "India",
+    "playerYear": "2015",
+    "playerRole": "Bowler",
+    "playerGender": "MALE"
+  },
+  {
+    "playerName": "Swapnil",
+    "playerCountry": "India",
+    "playerYear": "2015",
+    "playerRole": "Batsman",
+    "playerGender": "MALE"
+  },
+  {
+    "playerName": "Ankit",
+    "playerCountry": "India",
+    "playerYear": "2016",
+    "playerRole": "Batsman",
+    "playerGender": "MALE"
+  },
+  {
+    "playerName": "Suresh",
+    "playerCountry": "India",
+    "playerYear": "2016",
+    "playerRole": "Bowler",
+    "playerGender": "MALE"
+  },
+  {
+    "playerName": "Vikram",
+    "playerCountry": "India",
+    "playerYear": "2017",
+    "playerRole": "Batsman",
+    "playerGender": "MALE"
+  },
+  {
+    "playerName": "Nikhil",
+    "playerCountry": "India",
+    "playerYear": "2017",
+    "playerRole": "Bowler",
+    "playerGender": "MALE"
+  },
+  {
+    "playerName": "Rohit",
+    "playerCountry": "India",
+    "playerYear": "2018",
+    "playerRole": "Bowler",
+    "playerGender": "MALE"
+  },
+  {
+    "playerName": "Karan",
+    "playerCountry": "India",
+    "playerYear": "2018",
+    "playerRole": "Bowler",
+    "playerGender": "MALE"
+  }
+]
