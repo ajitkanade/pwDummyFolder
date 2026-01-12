@@ -2,11 +2,8 @@
 
 class LoginPage{
 
-
     constructor(page){
-
-  //login page
- 
+   //login page
    this.loginButton= page.locator("//button[@data-testid='header-login-button']")
    this.emailTextButton= page.locator("#email")
    this.passwordTextBox= page.locator("#password")
@@ -24,4 +21,4 @@ class LoginPage{
    }
 }
 
-module.exports={LoginPage}
+module.exports={LoginPage}  

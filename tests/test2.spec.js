@@ -16,6 +16,6 @@ test("testcase1 - demo", async({page}) =>{
     await page.goto("https://www.gmail.com")
 });
 
-test.only("testcase3 -demo ", async({page}) => {
+test("testcase3 -demo ", async({page}) => {
   await page.goto("https://www.amazon.com")
 });

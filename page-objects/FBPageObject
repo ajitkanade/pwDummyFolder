@@ -1,4 +1,5 @@
 class Facebook{
+   
    constructor(page){
    this.loginID=page.locator("//input[@data-testid='royal-email']")
    this.password=page.locator("//input[@data-testid='royal-pass']")
