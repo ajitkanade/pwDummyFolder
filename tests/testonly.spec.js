@@ -7,7 +7,7 @@ test ("testonly1", async({page}) => {
     
 })
 
-test.only ("testonly2", async({page}) => {
+test("testonly2", async({page}) => {
 
     await page.goto("https://www.bookmyshow.com")
     
