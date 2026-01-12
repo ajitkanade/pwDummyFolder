@@ -1,5 +1,5 @@
 import{test,expect} from '@playwright/test'
-import { LoginPage1, LoginPage1 } from '../page-objects/LoginPage1'
+import { LoginPage1} from '../page-objects/LoginPage1'
 
 test ("Login2", async ({page})  =>{
 const LoginPage1 = new LoginPage1(page)
