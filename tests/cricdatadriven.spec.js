@@ -18,7 +18,7 @@ test("add new player"+player.playerName, async ({ page }) => {
   await page.locator("//label[text()='Player Name']/following-sibling::div/input").fill(player.playerName);
   await page.locator("//select[@data-testid='country-select']").selectOption(player.playerCountry)
   await page.locator("//div[@data-testid='start-year-input']/child::div/input").fill(player.playerYear)
-  await page.locator("//select[@data-testid='role-select']").selectOption(player.playerROle)
+  await page.locator("//select[@data-testid='role-select']").selectOption(player.playerRole)
   await page.locator("//input[@value='"+player.playerGender+"']").click()
   await page.locator("//button[@data-testid='submit-button']").click()
   
